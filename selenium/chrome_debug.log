@@ -1,0 +1,2 @@
+[71252:259:0319/171935.839717:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://accounts.google.com/signin (0)
+[71252:259:0319/171941.459350:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
